@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "SpiderMan",
+      "genre": "Action",
+      "director": "James",
+      "releaseYear": "2012",
+      "id": 2
+    },
+    {
+      "title": "wanted",
+      "genre": "action",
+      "director": "khatri amit",
+      "releaseYear": "2012",
+      "id": 6
+    },
+    {
+      "title": "CR7",
+      "genre": "football",
+      "director": "cristino ronaldo",
+      "releaseYear": "2022",
+      "id": 7
+    },
+    {
+      "title": "the girl",
+      "genre": "action",
+      "director": "ugtr",
+      "releaseYear": "2010",
+      "id": 8
+    }
+  ]
+}
